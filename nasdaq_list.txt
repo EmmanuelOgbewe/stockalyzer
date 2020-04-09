@@ -1,0 +1,1000 @@
+AAIT	iShares MSCI All Country Asia Information Technology Index Fund
+AAL	    American Airlines Group, Inc.
+AAME	Atlantic American Corporation
+AAOI	Applied Optoelectronics, Inc.
+AAON	AAON, Inc.
+AAPL	Apple Inc.
+AAVL	Avalanche Biotechnologies, Inc.
+AAWW	Atlas Air Worldwide Holdings
+AAXJ	iShares MSCI All Country Asia ex Japan Index Fund
+ABAC	Aoxin Tianli Group, Inc.
+ABAX	ABAXIS, Inc.
+ABCB	Ameris Bancorp
+ABCD	Cambium Learning Group, Inc.
+ABCO	The Advisory Board Company
+ABCW	Anchor BanCorp Wisconsin Inc.
+ABDC	Alcentra Capital Corp.
+ABGB	Abengoa, S.A.
+ABIO	ARCA biopharma, Inc.
+ABMD	ABIOMED, Inc.
+ABTL	Autobytel Inc.
+ABY	Abengoa Yield plc
+ACAD	ACADIA Pharmaceuticals Inc.
+ACAS	American Capital, Ltd.
+ACAT	Arctic Cat Inc.
+ACET	Aceto Corporation
+ACFC	Atlantic Coast Financial Corporation
+ACFN	Acorn Energy, Inc.
+ACGL	Arch Capital Group Ltd.
+ACHC	Acadia Healthcare Company, Inc.
+ACHN	Achillion Pharmaceuticals, Inc.
+ACIW	ACI Worldwide, Inc.
+ACLS	Axcelis Technologies, Inc.
+ACNB	ACNB Corporation
+ACOR	Acorda Therapeutics, Inc.
+ACPW	Active Power, Inc.
+ACRX	AcelRx Pharmaceuticals, Inc.
+ACSF	American Capital Senior Floating, Ltd.
+ACST	Acasti Pharma, Inc.
+ACTA	Actua Corporation
+ACTG	Acacia Research Corporation
+ACTS	Actions Semiconductor Co., Ltd.
+ACUR	Acura Pharmaceuticals, Inc.
+ACWI	iShares MSCI ACWI Index Fund
+ACWX	iShares MSCI ACWI ex US Index Fund
+ACXM	Acxiom Corporation
+ADAT	Authentidate Holding Corp.
+ADBE	Adobe Systems Incorporated
+ADEP	Adept Technology, Inc.
+ADES	Advanced Emissions Solutions, Inc.
+ADHD	Alcobra Ltd.
+ADI	Analog Devices, Inc.
+ADMA	ADMA Biologics Inc
+ADMP	Adamis Pharmaceuticals Corporation
+ADMS	Adamas Pharmaceuticals, Inc.
+ADNC	Audience, Inc.
+ADP	Automatic Data Processing, Inc.
+ADRA	BLDRS Asia 50 ADR Index Fund
+ADRD	BLDRS Developed Markets 100 ADR Index Fund
+ADRE	BLDRS Emerging Markets 50 ADR Index Fund
+ADRU	BLDRS Europe 100 ADR Index Fund
+ADSK	Autodesk, Inc.
+ADTN	ADTRAN, Inc.
+ADUS	Addus HomeCare Corporation
+ADVS	Advent Software, Inc.
+ADXS	Advaxis, Inc.
+ADXSW	Advaxis, Inc.
+AEGN	Aegion Corp
+AEGR	Aegerion Pharmaceuticals, Inc.
+AEHR	Aehr Test Systems
+AEIS	Advanced Energy Industries, Inc.
+AEPI	AEP Industries Inc.
+AERI	Aerie Pharmaceuticals, Inc.
+AETI	American Electric Technologies, Inc.
+AEY	ADDvantage Technologies Group, Inc.
+AEZS	AEterna Zentaris Inc.
+AFAM	Almost Family Inc
+AFCB	Athens Bancshares Corporation
+AFFX	Affymetrix, Inc.
+AFH	Atlas Financial Holdings, Inc.
+AFMD	Affimed N.V.
+AFOP	Alliance Fiber Optic Products, Inc.
+AFSI	AmTrust Financial Services, Inc.
+AGEN	Agenus Inc.
+AGII	Argo Group International Holdings, Ltd.
+AGIIL	Argo Group International Holdings, Ltd.
+AGIO	Agios Pharmaceuticals, Inc.
+AGNC	American Capital Agency Corp.
+AGNCB	American Capital Agency Corp.
+AGNCP	American Capital Agency Corp.
+AGND	WisdomTree Barclays U.S. Aggregate Bond Negative Duration Fund
+AGRX	Agile Therapeutics, Inc.
+AGTC	Applied Genetic Technologies Corporation
+AGYS	Agilysys, Inc.
+AGZD	WisdomTree Barclays U.S. Aggregate Bond Zero Duration Fund
+AHGP	Alliance Holdings GP, L.P.
+AHPI	Allied Healthcare Products, Inc.
+AIMC	Altra Industrial Motion Corp.
+AINV	Apollo Investment Corporation
+AIQ	Alliance HealthCare Services, Inc.
+AIRM	Air Methods Corporation
+AIRR	First Trust RBA American Industrial Renaissance ETF
+AIRT	Air T, Inc.
+AIXG	Aixtron SE
+AKAM	Akamai Technologies, Inc.
+AKAO	Achaogen, Inc.
+AKBA	Akebia Therapeutics, Inc.
+AKER	Akers Biosciences Inc
+AKRX	Akorn, Inc.
+ALCO	Alico, Inc.
+ALDR	Alder BioPharmaceuticals, Inc.
+ALDX	Aldeyra Therapeutics, Inc.
+ALGN	Align Technology, Inc.
+ALGT	Allegiant Travel Company
+ALIM	Alimera Sciences, Inc.
+ALKS	Alkermes plc
+ALLB	Alliance Bancorp, Inc. of Pennsylvania
+ALLT	Allot Communications Ltd.
+ALNY	Alnylam Pharmaceuticals, Inc.
+ALOG	Analogic Corporation
+ALOT	Astro
+ALQA	Alliqua, Inc.
+ALSK	Alaska Communications Systems Group, Inc.
+ALTR	Altera Corporation
+ALXA	Alexza Pharmaceuticals, Inc.
+ALXN	Alexion Pharmaceuticals, Inc.
+AMAG	AMAG Pharmaceuticals, Inc.
+AMAT	Applied Materials, Inc.
+AMBA	Ambarella, Inc.
+AMBC	Ambac Financial Group, Inc.
+AMBCW	Ambac Financial Group, Inc.
+AMCC	Applied Micro Circuits Corporation
+AMCF	Andatee China Marine Fuel Services Corporation
+AMCN	AirMedia Group Inc
+AMCX	AMC Networks Inc.
+AMD	Advanced Micro Devices, Inc.
+AMDA	Amedica Corporation
+AMED	Amedisys Inc
+AMGN	Amgen Inc.
+AMIC	American Independence Corp.
+AMKR	Amkor Technology, Inc.
+AMNB	American National Bankshares, Inc.
+AMOT	Allied Motion Technologies, Inc.
+AMOV	America Movil, S.A.B. de C.V.
+AMPH	Amphastar Pharmaceuticals, Inc.
+AMRB	American River Bankshares
+AMRI	Albany Molecular Research, Inc.
+AMRK	A
+AMRN	Amarin Corporation plc
+AMRS	Amyris, Inc.
+AMSC	American Superconductor Corporation
+AMSF	AMERISAFE, Inc.
+AMSG	Amsurg Corp.
+AMSGP	Amsurg Corp.
+AMSWA	American Software, Inc.
+AMTX	Aemetis, Inc
+AMWD	American Woodmark Corporation
+AMZN	Amazon.com, Inc.
+ANAC	Anacor Pharmaceuticals, Inc.
+ANAD	ANADIGICS, Inc.
+ANAT	American National Insurance Company
+ANCB	Anchor Bancorp
+ANCI	American Caresource Holdings Inc
+ANCX	Access National Corporation
+ANDE	The Andersons, Inc.
+ANGI	Angie's List, Inc.
+ANGO	AngioDynamics, Inc.
+ANIK	Anika Therapeutics Inc.
+ANIP	ANI Pharmaceuticals, Inc.
+ANSS	ANSYS, Inc.
+ANTH	Anthera Pharmaceuticals, Inc.
+ANY	Sphere 3D Corp
+AOSL	Alpha and Omega Semiconductor Limited
+APAGF	Apco Oil and Gas International Inc.
+APDN	Applied DNA Sciences Inc
+APDNW	Applied DNA Sciences Inc
+APEI	American Public Education, Inc.
+APOG	Apogee Enterprises, Inc.
+APOL	Apollo Education Group, Inc.
+APPY	Venaxis, Inc.
+APRI	Apricus Biosciences, Inc
+APSA	Alto Palermo S.A.
+APTO	Aptose Biosciences, Inc.
+APWC	Asia Pacific Wire & Cable Corporation Limited
+AQXP	Aquinox Pharmaceuticals, Inc.
+ARAY	Accuray Incorporated
+ARCB	ArcBest Corporation
+ARCC	Ares Capital Corporation
+ARCI	Appliance Recycling Centers of America, Inc.
+ARCP	American Realty Capital Properties, Inc.
+ARCPP	American Realty Capital Properties, Inc.
+ARCW	ARC Group Worldwide, Inc.
+ARDM	Aradigm Corporation
+ARDX	Ardelyx, Inc.
+AREX	Approach Resources Inc.
+ARGS	Argos Therapeutics, Inc.
+ARIA	ARIAD Pharmaceuticals, Inc.
+ARII	American Railcar Industries, Inc.
+ARIS	ARI Network Services, Inc.
+ARKR	Ark Restaurants Corp.
+ARLP	Alliance Resource Partners, L.P.
+ARMH	ARM Holdings plc
+ARNA	Arena Pharmaceuticals, Inc.
+AROW	Arrow Financial Corporation
+ARQL	ArQule, Inc.
+ARRS	ARRIS Group, Inc.
+ARRY	Array BioPharma Inc.
+ARTNA	Artesian Resources Corporation
+ARTW	Art's
+ARTX	Arotech Corporation
+ARUN	Aruba Networks, Inc.
+ARWR	Arrowhead Research Corporation
+ASBB	ASB Bancorp, Inc.
+ASBI	Ameriana Bancorp
+ASCMA	Ascent Capital Group, Inc.
+ASEI	American Science and Engineering, Inc.
+ASFI	Asta Funding, Inc.
+ASMB	Assembly Biosciences, Inc.
+ASMI	ASM International N.V.
+ASML	ASML Holding N.V.
+ASNA	Ascena Retail Group, Inc.
+ASPS	Altisource Portfolio Solutions S.A.
+ASPX	Auspex Pharmaceuticals, Inc.
+ASRV	AmeriServ Financial Inc.
+ASRVP	AmeriServ Financial Inc.
+ASTC	Astrotech Corporation
+ASTE	Astec Industries, Inc.
+ASTI	Ascent Solar Technologies, Inc.
+ASUR	Asure Software Inc
+ASYS	Amtech Systems, Inc.
+ATAI	ATA Inc.
+ATAX	America First Multifamily Investors, L.P.
+ATEA	Astea International, Inc.
+ATEC	Alphatec Holdings, Inc.
+ATHN	athenahealth, Inc.
+ATHX	Athersys, Inc.
+ATLC	Atlanticus Holdings Corporation
+ATLO	Ames National Corporation
+ATML	Atmel Corporation
+ATNI	Atlantic Tele
+ATNY	API Technologies Corp.
+ATOS	Atossa Genetics Inc.
+ATRA	Atara Biotherapeutics, Inc.
+ATRC	AtriCure, Inc.
+ATRI	ATRION Corporation
+ATRM	ATRM Holdings, Inc.
+ATRO	Astronics Corporation
+ATRS	Antares Pharma, Inc.
+ATSG	Air Transport Services Group, Inc
+ATTU	Attunity Ltd.
+ATVI	Activision Blizzard, Inc
+AUBN	Auburn National Bancorporation, Inc.
+AUDC	AudioCodes Ltd.
+AUMA	AR Capital Acquisition Corp.
+AUMAU	AR Capital Acquisition Corp.
+AUMAW	AR Capital Acquisition Corp.
+AUPH	Aurinia Pharmaceuticals Inc
+AUXL	Auxilium Pharmaceuticals, Inc.
+AVAV	AeroVironment, Inc.
+AVEO	AVEO Pharmaceuticals, Inc.
+AVGO	Avago Technologies Limited
+AVHI	A V Homes, Inc.
+AVID	Avid Technology, Inc.
+AVNR	Avanir Pharmaceuticals, Inc.
+AVNW	Aviat Networks, Inc.
+AWAY	HomeAway, Inc.
+AWRE	Aware, Inc.
+AXAS	Abraxas Petroleum Corporation
+AXDX	Accelerate Diagnostics, Inc.
+AXGN	AxoGen, Inc.
+AXJS	iShares MSCI All Country Asia ex Japan Small Cap Index Fund
+AXPW	Axion Power International, Inc.
+AXPWW	Axion Power International, Inc.
+AXTI	AXT Inc
+AZPN	Aspen Technology, Inc.
+BABY	Natus Medical Incorporated
+BAGR	Diversified Restaurant Holdings, Inc.
+BAMM	Books
+BANF	BancFirst Corporation
+BANFP	BancFirst Corporation
+BANR	Banner Corporation
+BANX	StoneCastle Financial Corp
+BASI	Bioanalytical Systems, Inc.
+BBBY	Bed Bath & Beyond Inc.
+BBC	BioShares Biotechnology Clinical Trials Fund
+BBCN	BBCN Bancorp, Inc.
+BBEP	BreitBurn Energy Partners, L.P.
+BBEPP	BreitBurn Energy Partners, L.P.
+BBGI	Beasley Broadcast Group, Inc.
+BBLU	Blue Earth, Inc.
+BBNK	Bridge Capital Holdings
+BBOX	Black Box Corporation
+BBP	BioShares Biotechnology Products Fund
+BBRG	Bravo Brio Restaurant Group, Inc.
+BBRY	BlackBerry Limited
+BBSI	Barrett Business Services, Inc.
+BCBP	BCB Bancorp, Inc. (NJ)
+BCLI	Brainstorm Cell Therapeutics Inc.
+BCOM	B Communications Ltd.
+BCOR	Blucora, Inc.
+BCOV	Brightcove Inc.
+BCPC	Balchem Corporation
+BCRX	BioCryst Pharmaceuticals, Inc.
+BDBD	Boulder Brands, Inc.
+BDCV	BDCA Venture, Inc.
+BDE	Black Diamond, Inc.
+BDGE	Bridge Bancorp, Inc.
+BDMS	Birner Dental Management Services, Inc.
+BDSI	BioDelivery Sciences International, Inc.
+BEAT	BioTelemetry, Inc.
+BEAV	B/E Aerospace, Inc.
+BEBE	bebe stores, inc.
+BECN	Beacon Roofing Supply, Inc.
+BELFA	Bel Fuse Inc.
+BELFB	Bel Fuse Inc.
+BFIN	BankFinancial Corporation
+BGCP	BGC Partners, Inc.
+BGFV	Big 5 Sporting Goods Corporation
+BGMD	BG Medicine, Inc.
+BHBK	Blue Hills Bancorp, Inc.
+BIB	ProShares Ultra Nasdaq Biotechnology
+BICK	First Trust BICK Index Fund
+BIDU	Baidu, Inc.
+BIIB	Biogen Idec Inc.
+BIND	BIND Therapeutics, Inc.
+BIOC	Biocept, Inc.
+BIOD	Biodel Inc.
+BIOL	Biolase, Inc.
+BIOS	BioScrip, Inc.
+BIRT	Actuate Corporation
+BIS	ProShares UltraShort Nasdaq Biotechnology
+BJRI	BJ's Restaurants, Inc.
+BKCC	BlackRock Kelso Capital Corporation
+BKEP	Blueknight Energy Partners L.P., L.L.C.
+BKEPP	Blueknight Energy Partners L.P., L.L.C.
+BKMU	Bank Mutual Corporation
+BKSC	Bank of South Carolina Corp.
+BKYF	The Bank of Kentucky Financial Corp.
+BLCM	Bellicum Pharmaceuticals, Inc.
+BLDP	Ballard Power Systems, Inc.
+BLDR	Builders FirstSource, Inc.
+BLFS	BioLife Solutions, Inc.
+BLIN	Bridgeline Digital, Inc.
+BLKB	Blackbaud, Inc.
+BLMN	Bloomin' Brands, Inc.
+BLMT	BSB Bancorp, Inc.
+BLRX	BioLineRx Ltd.
+BLUE	bluebird bio, Inc.
+BLVD	Boulevard Acquisition Corp.
+BLVDU	Boulevard Acquisition Corp.
+BLVDW	Boulevard Acquisition Corp.
+BMRC	Bank of Marin Bancorp
+BMRN	BioMarin Pharmaceutical Inc.
+BMTC	Bryn Mawr Bank Corporation
+BNCL	Beneficial Mutual Bancorp, Inc.
+BNCN	BNC Bancorp
+BNDX	Vanguard Total International Bond ETF
+BNFT	Benefitfocus, Inc.
+BNSO	Bonso Electronics International, Inc.
+BOBE	Bob Evans Farms, Inc.
+BOCH	Bank of Commerce Holdings (CA)
+BOFI	BofI Holding, Inc.
+BOKF	BOK Financial Corporation
+BONA	Bona Film Group Limited
+BONT	The Bon
+BOOM	Dynamic Materials Corporation
+BOSC	B.O.S. Better Online Solutions
+BOTA	Biota Pharmaceuticals, Inc.
+BOTJ	Bank of the James Financial Group, Inc.
+BPFH	Boston Private Financial Holdings, Inc.
+BPFHP	Boston Private Financial Holdings, Inc.
+BPFHW	Boston Private Financial Holdings, Inc.
+BPOP	Popular, Inc.
+BPOPM	Popular, Inc.
+BPOPN	Popular, Inc.
+BPTH	Bio
+BRCD	Brocade Communications Systems, Inc.
+BRCM	Broadcom Corporation
+BRDR	Borderfree, Inc.
+BREW	Craft Brew Alliance, Inc.
+BRID	Bridgford Foods Corporation
+BRKL	Brookline Bancorp, Inc.
+BRKR	Bruker Corporation
+BRKS	Brooks Automation, Inc.
+BRLI	Bio
+BSDM	BSD Medical Corporation
+BSET	Bassett Furniture Industries, Incorporated
+BSF	Bear State Financial, Inc.
+BSFT	BroadSoft, Inc.
+BSPM	Biostar Pharmaceuticals, Inc.
+BSQR	BSQUARE Corporation
+BSRR	Sierra Bancorp
+BSTC	BioSpecifics Technologies Corp
+BTUI	BTU International, Inc.
+BUR	Burcon NutraScience Corp
+BUSE	First Busey Corporation
+BV	Bazaarvoice, Inc.
+BVA	Cordia Bancorp Inc.
+BVSN	BroadVision, Inc.
+BWEN	Broadwind Energy, Inc.
+BWFG	Bankwell Financial Group, Inc.
+BWINA	Baldwin & Lyons, Inc.
+BWINB	Baldwin & Lyons, Inc.
+BWLD	Buffalo Wild Wings, Inc.
+BYBK	Bay Bancorp, Inc.
+BYFC	Broadway Financial Corporation
+BYLK	Baylake Corp
+CA	CA Inc.
+CAAS	China Automotive Systems, Inc.
+CAC	Camden National Corporation
+CACB	Cascade Bancorp
+CACC	Credit Acceptance Corporation
+CACG	Chart Acquisition Corp.
+CACGU	Chart Acquisition Corp.
+CACGW	Chart Acquisition Corp.
+CACH	Cache, Inc.
+CACQ	Caesars Acquisition Company
+CADC	China Advanced Construction Materials Group, Inc.
+CADT	DT Asia Investments Limited
+CADTR	DT Asia Investments Limited
+CADTU	DT Asia Investments Limited
+CADTW	DT Asia Investments Limited
+CAKE	The Cheesecake Factory Incorporated
+CALA	Calithera Biosciences, Inc.
+CALD	Callidus Software, Inc.
+CALI	China Auto Logistics Inc.
+CALL	magicJack VocalTec Ltd
+CALM	Cal
+CAMB	Cambridge Capital Acquisition Corporation
+CAMBU	Cambridge Capital Acquisition Corporation
+CAMBW	Cambridge Capital Acquisition Corporation
+CAMP	CalAmp Corp.
+CAMT	Camtek Ltd.
+CAPN	Capnia, Inc.
+CAPNW	Capnia, Inc.
+CAR	Avis Budget Group, Inc.
+CARA	Cara Therapeutics, Inc.
+CARB	Carbonite, Inc.
+CARO	Carolina Financial Corporation
+CART	Carolina Trust Bank
+CARV	Carver Bancorp, Inc.
+CARZ	First Trust NASDAQ Global Auto Index Fund
+CASH	Meta Financial Group, Inc.
+CASI	CASI Pharmaceuticals, Inc.
+CASM	CAS Medical Systems, Inc.
+CASS	Cass Information Systems, Inc
+CASY	Caseys General Stores, Inc.
+CATM	Cardtronics, Inc.
+CATY	Cathay General Bancorp
+CATYW	Cathay General Bancorp
+CAVM	Cavium, Inc.
+CBAK	China BAK Battery, Inc.
+CBAN	Colony Bankcorp, Inc.
+CBAY	CymaBay Therapeutics Inc.
+CBDE	CBD Energy Limited
+CBF	Capital Bank Financial Corp.
+CBFV	CB Financial Services, Inc.
+CBIN	Community Bank Shares of Indiana, Inc.
+CBLI	Cleveland BioLabs, Inc.
+CBMG	Cellular Biomedicine Group, Inc.
+CBMX	CombiMatrix Corporation
+CBNJ	Cape Bancorp, Inc.
+CBNK	Chicopee Bancorp, Inc.
+CBOE	CBOE Holdings, Inc.
+CBPO	China Biologic Products, Inc.
+CBRL	Cracker Barrel Old Country Store, Inc.
+CBRX	Columbia Laboratories, Inc.
+CBSH	Commerce Bancshares, Inc.
+CBSHP	Commerce Bancshares, Inc.
+CBST	Cubist Pharmaceuticals, Inc.
+CBSTZ	Cubist Pharmaceuticals, Inc.
+CCBG	Capital City Bank Group
+CCCL	China Ceramics Co., Ltd.
+CCCR	China Commercial Credit, Inc.
+CCIH	ChinaCache International Holdings Ltd.
+CCLP	CSI Compressco LP
+CCMP	Cabot Microelectronics Corporation
+CCNE	CNB Financial Corporation
+CCOI	Cogent Communications Holdings, Inc.
+CCRN	Cross Country Healthcare, Inc.
+CCUR	Concurrent Computer Corporation
+CCXI	ChemoCentryx, Inc.
+CDC	Compass EMP U S EQ Income 100 Enhanced Volatility Weighted Fund
+CDK	CDK Global, Inc.
+CDNA	CareDx, Inc.
+CDNS	Cadence Design Systems, Inc.
+CDTI	Clean Diesel Technologies, Inc.
+CDW	CDW Corporation
+CDXS	Codexis, Inc.
+CDZI	Cadiz, Inc.
+CECE	CECO Environmental Corp.
+CECO	Career Education Corporation
+CELG	Celgene Corporation
+CELGZ	Celgene Corporation
+CEMI	Chembio Diagnostics, Inc.
+CEMP	Cempra, Inc.
+CENT	Central Garden & Pet Company
+CENTA	Central Garden & Pet Company
+CENX	Century Aluminum Company
+CERE	Ceres, Inc.
+CERN	Cerner Corporation
+CERS	Cerus Corporation
+CERU	Cerulean Pharma Inc.
+CETV	Central European Media Enterprises Ltd.
+CEVA	CEVA, Inc.
+CFA	Compass EMP US 500 Volatility Weighted Index ETF
+CFBK	Central Federal Corporation
+CFFI	C&F Financial Corporation
+CFFN	Capitol Federal Financial, Inc.
+CFGE	Calamos Focus Growth ETF
+CFNB	California First National Bancorp
+CFNL	Cardinal Financial Corporation
+CFO	Compass EMP US 500 Enhanced Volatility Weighted Index ETF
+CFRX	ContraFect Corporation
+CFRXW	ContraFect Corporation
+CFRXZ	ContraFect Corporation
+CG	The Carlyle Group L.P.
+CGEN	Compugen Ltd.
+CGIX	Cancer Genetics, Inc.
+CGNX	Cognex Corporation
+CGO	Calamos Global Total Return Fund
+CHCI	Comstock Holding Companies, Inc.
+CHCO	City Holding Company
+CHDN	Churchill Downs, Incorporated
+CHEF	The Chefs' Warehouse, Inc.
+CHEV	Cheviot Financial Corp
+CHFC	Chemical Financial Corporation
+CHFN	Charter Financial Corp.
+CHI	Calamos Convertible Opportunities and Income Fund
+CHKE	Cherokee Inc.
+CHKP	Check Point Software Technologies Ltd.
+CHLN	China Housing & Land Development, Inc.
+CHMG	Chemung Financial Corp
+CHNR	China Natural Resources, Inc.
+CHOP	China Gerui Advanced Materials Group Limited
+CHRS	Coherus BioSciences, Inc.
+CHRW	C.H. Robinson Worldwide, Inc.
+CHSCM	CHS Inc
+CHSCN	CHS Inc
+CHSCO	CHS Inc
+CHSCP	CHS Inc
+CHTR	Charter Communications, Inc.
+CHUY	Chuy's Holdings, Inc.
+CHW	Calamos Global Dynamic Income Fund
+CHXF	WisdomTree China Dividend Ex
+CHY	Calamos Convertible and High Income Fund
+CHYR	ChyronHego Corporation
+CIDM	Cinedigm Corp
+CIFC	CIFC Corp.
+CIMT	Cimatron, Limited
+CINF	Cincinnati Financial Corporation
+CISAW	CIS Acquisition Ltd.
+CISG	CNinsure Inc.
+CIZ	Compass EMP Developed 500 Enhanced Volatility Weighted Index ETF
+CIZN	Citizens Holding Company
+CJJD	China Jo
+CKEC	Carmike Cinemas, Inc.
+CKSW	ClickSoftware Technologies Ltd.
+CLAC	Capitol Acquisition Corp. II
+CLACU	Capitol Acquisition Corp. II
+CLACW	Capitol Acquisition Corp. II
+CLBH	Carolina Bank Holdings Inc.
+CLCT	Collectors Universe, Inc.
+CLDN	Celladon Corporation
+CLDX	Celldex Therapeutics, Inc.
+CLFD	Clearfield, Inc.
+CLIR	ClearSign Combustion Corporation
+CLMS	Calamos Asset Management, Inc.
+CLMT	Calumet Specialty Products Partners, L.P.
+CLNE	Clean Energy Fuels Corp.
+CLNT	Cleantech Solutions International, Inc.
+CLRB	Cellectar Biosciences, Inc.
+CLRBW	Cellectar Biosciences, Inc.
+CLRO	ClearOne, Inc.
+CLRX	CollabRx, Inc.
+CLSN	Celsion Corporation
+CLTX	Celsus Therapeutics Plc
+CLUB	Town Sports International Holdings, Inc.
+CLVS	Clovis Oncology, Inc.
+CLWT	Euro Tech Holdings Company Limited
+CMCO	Columbus McKinnon Corporation
+CMCSA	Comcast Corporation
+CMCSK	Comcast Corporation
+CMCT	CIM Commercial Trust Corporation
+CME	CME Group Inc.
+CMFN	CM Finance Inc
+CMGE	China Mobile Games and Entertainment Group Limited
+CMLS	Cumulus Media Inc.
+CMPR	Cimpress N.V
+CMRX	Chimerix, Inc.
+CMSB	CMS Bancorp, Inc.
+CMTL	Comtech Telecommunications Corp.
+CNAT	Conatus Pharmaceuticals Inc.
+CNBKA	Century Bancorp, Inc.
+CNCE	Concert Pharmaceuticals, Inc.
+CNDO	Coronado Biosciences, Inc.
+CNET	ChinaNet Online Holdings, Inc.
+CNIT	China Information Technology, Inc.
+CNLM	CB Pharma Acquisition Corp.
+CNLMR	CB Pharma Acquisition Corp.
+CNLMU	CB Pharma Acquisition Corp.
+CNLMW	CB Pharma Acquisition Corp.
+CNMD	CONMED Corporation
+CNOB	ConnectOne Bancorp, Inc.
+CNSI	Comverse Inc.
+CNSL	Consolidated Communications Holdings, Inc.
+CNTF	China TechFaith Wireless Communication Technology Limited
+CNTY	Century Casinos, Inc.
+CNV	Cnova N.V.
+CNXR	Connecture, Inc.
+CNYD	China Yida Holding, Co.
+COB	CommunityOne Bancorp
+COBK	Colonial Financial Services, Inc.
+COBZ	CoBiz Financial Inc.
+COCO	Corinthian Colleges, Inc.
+COHR	Coherent, Inc.
+COHU	Cohu, Inc.
+COKE	Coca
+COLB	Columbia Banking System, Inc.
+COLM	Columbia Sportswear Company
+COMM	CommScope Holding Company, Inc.
+COMT	iShares Commodities Select Strategy ETF
+CONE	CyrusOne Inc
+CONN	Conn's, Inc.
+COOL	Majesco Entertainment Company
+CORE	Core
+CORI	Corium International, Inc.
+CORT	Corcept Therapeutics Incorporated
+COSI	Cosi, Inc.
+COST	Costco Wholesale Corporation
+COVS	Covisint Corporation
+COWN	Cowen Group, Inc.
+COWNL	Cowen Group, Inc.
+CPAH	CounterPath Corporation
+CPGI	China Shengda Packaging Group, Inc.
+CPHC	Canterbury Park Holding Corporation
+CPHD	CEPHEID
+CPHR	Cipher Pharmaceuticals Inc.
+CPIX	Cumberland Pharmaceuticals Inc.
+CPLA	Capella Education Company
+CPLP	Capital Product Partners L.P.
+CPRT	Copart, Inc.
+CPRX	Catalyst Pharmaceutical Partners, Inc.
+CPSI	Computer Programs and Systems, Inc.
+CPSS	Consumer Portfolio Services, Inc.
+CPST	Capstone Turbine Corporation
+CPTA	Capitala Finance Corp.
+CPXX	Celator Pharmaceuticals Inc.
+CRAI	CRA International,Inc.
+CRAY	Cray Inc
+CRDC	Cardica, Inc.
+CRDS	Crossroads Systems, Inc.
+CRDT	WisdomTree Strategic Corporate Bond Fund
+CREE	Cree, Inc.
+CREG	China Recycling Energy Corporation
+CRESW	Cresud S.A.C.I.F. y A.
+CRESY	Cresud S.A.C.I.F. y A.
+CRIS	Curis, Inc.
+CRME	Cardiome Pharma Corporation
+CRMT	America's Car
+CRNT	Ceragon Networks Ltd.
+CROX	Crocs, Inc.
+CRRC	Courier Corporation
+CRRS	Corporate Resource Services, Inc.
+CRTN	Cartesian, Inc.
+CRTO	Criteo S.A.
+CRUS	Cirrus Logic, Inc.
+CRVL	CorVel Corp.
+CRWN	Crown Media Holdings, Inc.
+CRWS	Crown Crafts, Inc.
+CRZO	Carrizo Oil & Gas, Inc.
+CSBK	Clifton Bancorp Inc.
+CSCD	Cascade Microtech, Inc.
+CSCO	Cisco Systems, Inc.
+CSF	Compass EMP U.S. Discovery 500 Enhanced Volatility Weighted Fund
+CSFL	CenterState Banks, Inc.
+CSGP	CoStar Group, Inc.
+CSGS	CSG Systems International, Inc.
+CSII	Cardiovascular Systems, Inc.
+CSIQ	Canadian Solar Inc.
+CSOD	Cornerstone OnDemand, Inc.
+CSPI	CSP Inc.
+CSQ	Calamos Strategic Total Return Fund
+CSRE	CSR plc
+CSTE	CaesarStone Sdot
+CSUN	China Sunergy Co., Ltd.
+CSWC	Capital Southwest Corporation
+CTAS	Cintas Corporation
+CTBI	Community Trust Bancorp, Inc.
+CTCM	CTC Media, Inc.
+CTCT	Constant Contact, Inc.
+CTG	Computer Task Group, Incorporated
+CTHR	Charles & Colvard Ltd
+CTIB	CTI Industries Corporation
+CTIC	CTI BioPharma Corp.
+CTRE	CareTrust REIT, Inc.
+CTRL	Control4 Corporation
+CTRN	Citi Trends, Inc.
+CTRP	Ctrip.com International, Ltd.
+CTRX	Catamaran Corporation
+CTSH	Cognizant Technology Solutions Corporation
+CTSO	Cytosorbents Corporation
+CTWS	Connecticut Water Service, Inc.
+CTXS	Citrix Systems, Inc.
+CU	First Trust ISE Global Copper Index Fund
+CUBA	The Herzfeld Caribbean Basin Fund, Inc.
+CUI	CUI Global, Inc.
+CUNB	CU Bancorp (CA)
+CUTR	Cutera, Inc.
+CVBF	CVB Financial Corporation
+CVCO	Cavco Industries, Inc.
+CVCY	Central Valley Community Bancorp
+CVGI	Commercial Vehicle Group, Inc.
+CVGW	Calavo Growers, Inc.
+CVLT	CommVault Systems, Inc.
+CVLY	Codorus Valley Bancorp, Inc
+CVTI	Covenant Transportation Group, Inc.
+CVV	CVD Equipment Corporation
+CWAY	Coastway Bancorp, Inc.
+CWBC	Community West Bancshares
+CWCO	Consolidated Water Co. Ltd.
+CWST	Casella Waste Systems, Inc.
+CXDC	China XD Plastics Company Limited
+CY	Cypress Semiconductor Corporation
+CYAN	Cyanotech Corporation
+CYBE	CyberOptics Corporation
+CYBR	CyberArk Software Ltd.
+CYBX	Cyberonics, Inc.
+CYCC	Cyclacel Pharmaceuticals, Inc.
+CYCCP	Cyclacel Pharmaceuticals, Inc.
+CYHHZ	Community Health Systems, Inc.
+CYNO	Cynosure, Inc.
+CYOU	Changyou.com Limited
+CYRN	CYREN Ltd.
+CYTK	Cytokinetics, Incorporated
+CYTR	CytRx Corporation
+CYTX	Cytori Therapeutics Inc
+CZFC	Citizens First Corporation
+CZNC	Citizens & Northern Corp
+CZR	Caesars Entertainment Corporation
+CZWI	Citizens Community Bancorp, Inc.
+DAEG	Daegis Inc
+DAIO	Data I/O Corporation
+DAKT	Daktronics, Inc.
+DARA	DARA Biosciences, Inc.
+DATE	Jiayuan.com International Ltd.
+DAVE	Famous Dave's of America, Inc.
+DAX	Recon Capital DAX Germany ETF
+DBVT	DBV Technologies S.A.
+DCIX	Diana Containerships Inc.
+DCOM	Dime Community Bancshares, Inc.
+DCTH	Delcath Systems, Inc.
+DENN	Denny's Corporation
+DEPO	Depomed, Inc.
+DERM	Dermira, Inc.
+DEST	Destination Maternity Corporation
+DFRG	Del Frisco's Restaurant Group, Inc.
+DFVL	Barclays PLC
+DFVS	Barclays PLC
+DGAS	Delta Natural Gas Company, Inc.
+DGICA	Donegal Group, Inc.
+DGICB	Donegal Group, Inc.
+DGII	Digi International Inc.
+DGLD	Credit Suisse AG
+DGLY	Digital Ally, Inc.
+DGRE	WisdomTree Emerging Markets Dividend Growth Fund
+DGRS	WisdomTree U.S. SmallCap Dividend Growth Fund
+DGRW	WisdomTree U.S. Dividend Growth Fund
+DHIL	Diamond Hill Investment Group, Inc.
+DHRM	Dehaier Medical Systems Limited
+DIOD	Diodes Incorporated
+DISCA	Discovery Communications, Inc.
+DISCB	Discovery Communications, Inc.
+DISCK	Discovery Communications, Inc.
+DISH	DISH Network Corporation
+DJCO	Daily Journal Corp. (S.C.)
+DLBL	Barclays PLC
+DLBS	Barclays PLC
+DLHC	DLH Holdings Corp.
+DLTR	Dollar Tree, Inc.
+DMLP	Dorchester Minerals, L.P.
+DMND	Diamond Foods, Inc.
+DMRC	Digimarc Corporation
+DNBF	DNB Financial Corp
+DNKN	Dunkin' Brands Group, Inc.
+DORM	Dorman Products, Inc.
+DOVR	Dover Saddlery, Inc.
+DOX	Amdocs Limited
+DPRX	Dipexium Pharmaceuticals, Inc.
+DRAD	Digirad Corporation
+DRAM	Dataram Corporation
+DRIV	Digital River, Inc.
+DRNA	Dicerna Pharmaceuticals, Inc.
+DRRX	DURECT Corporation
+DRWI	DragonWave Inc
+DRWIW	DragonWave Inc
+DRYS	DryShips Inc.
+DSCI	Derma Sciences, Inc.
+DSCO	Discovery Laboratories, Inc.
+DSGX	The Descartes Systems Group Inc.
+DSKX	DS Healthcare Group, Inc.
+DSKY	iDreamSky Technology Limited
+DSLV	Credit Suisse AG
+DSPG	DSP Group, Inc.
+DSWL	Deswell Industries, Inc.
+DTLK	Datalink Corporation
+DTSI	DTS, Inc.
+DTUL	Barclays PLC
+DTUS	Barclays PLC
+DTV	DIRECTV
+DTYL	Barclays PLC
+DTYS	Barclays PLC
+DVAX	Dynavax Technologies Corporation
+DVCR	Diversicare Healthcare Services Inc.
+DWA	Dreamworks Animation SKG, Inc.
+DWAT	Arrow DWA Tactical ETF
+DWCH	Datawatch Corporation
+DWSN	Dawson Geophysical Company
+DXCM	DexCom, Inc.
+DXGE	WisdomTree Germany Hedged Equity Fund
+DXJS	WisdomTree Japan Hedged SmallCap Equity Fund
+DXKW	WisdomTree Korea Hedged Equity Fund
+DXLG	Destination XL Group, Inc.
+DXM	Dex Media, Inc.
+DXPE	DXP Enterprises, Inc.
+DXPS	WisdomTree United Kingdom Hedged Equity Fund
+DXYN	The Dixie Group, Inc.
+DYAX	Dyax Corp.
+DYNT	Dynatronics Corporation
+DYSL	Dynasil Corporation of America
+EA	Electronic Arts Inc.
+EAC	Erickson Incorporated
+EARS	Auris Medical Holding AG
+EBAY	eBay Inc.
+EBIO	Eleven Biotherapeutics, Inc.
+EBIX	Ebix, Inc.
+EBMT	Eagle Bancorp Montana, Inc.
+EBSB	Meridian Bancorp, Inc.
+EBTC	Enterprise Bancorp Inc
+ECHO	Echo Global Logistics, Inc.
+ECOL	US Ecology, Inc.
+ECPG	Encore Capital Group Inc
+ECTE	Echo Therapeutics, Inc.
+ECYT	Endocyte, Inc.
+EDAP	EDAP TMS S.A.
+EDGW	Edgewater Technology, Inc.
+EDS	Exceed Company Ltd.
+EDUC	Educational Development Corporation
+EEFT	Euronet Worldwide, Inc.
+EEI	Ecology and Environment, Inc.
+EEMA	iShares MSCI Emerging Markets Asia Index Fund
+EEME	iShares MSCI Emerging Markets EMEA Index Fund
+EEML	iShares MSCI Emerging Markets Latin America Index Fund
+EFII	Electronics for Imaging, Inc.
+EFOI	Energy Focus, Inc.
+EFSC	Enterprise Financial Services Corporation
+EFUT	eFuture Information Technology Inc.
+EGAN	eGain Corporation
+EGBN	Eagle Bancorp, Inc.
+EGHT	8x8 Inc
+EGLE	Eagle Bulk Shipping Inc.
+EGLT	Egalet Corporation
+EGOV	NIC Inc.
+EGRW	iShares MSCI Emerging Markets Growth Index Fund
+EGRX	Eagle Pharmaceuticals, Inc.
+EGT	Entertainment Gaming Asia Incorporated
+EHTH	eHealth, Inc.
+EIGI	Endurance International Group Holdings, Inc.
+ELGX	Endologix, Inc.
+ELNK	EarthLink Holdings Corp.
+ELON	Echelon Corporation
+ELOS	Syneron Medical Ltd.
+ELRC	Electro Rent Corporation
+ELSE	Electro
+ELTK	Eltek Ltd.
+EMCB	WisdomTree Emerging Markets Corporate Bond Fund
+EMCF	Emclaire Financial Corp
+EMCG	WisdomTree Emerging Markets Consumer Growth Fund
+EMCI	EMC Insurance Group Inc.
+EMDI	iShares MSCI Emerging Markets Consumer Discrectionary Sector Index Fund
+EMEY	iShares MSCI Emerging Markets Energy Sector Capped Index Fund
+EMIF	iShares S&P Emerging Markets Infrastructure Index Fund
+EMITF	Elbit Imaging Ltd.
+EMKR	EMCORE Corporation
+EML	Eastern Company (The)
+EMMS	Emmis Communications Corporation
+EMMSP	Emmis Communications Corporation
+ENDP	Endo International plc
+ENFC	Entegra Financial Corp.
+ENG	ENGlobal Corporation
+ENOC	EnerNOC, Inc.
+ENPH	Enphase Energy, Inc.
+ENSG	The Ensign Group, Inc.
+ENT	Global Eagle Entertainment Inc.
+ENTA	Enanta Pharmaceuticals, Inc.
+ENTG	Entegris, Inc.
+ENTR	Entropic Communications, Inc.
+ENVI	Envivio, Inc.
+ENZN	Enzon Pharmaceuticals, Inc.
+ENZY	Enzymotec Ltd.
+EOPN	E2open, Inc.
+EPAX	Ambassadors Group, Inc.
+EPAY	Bottomline Technologies, Inc.
+EPIQ	EPIQ Systems, Inc.
+EPRS	EPIRUS Biopharmaceuticals, Inc.
+EPZM	Epizyme, Inc.
+EQIX	Equinix, Inc.
+ERI	Eldorado Resorts, Inc.
+ERIC	Ericsson
+ERIE	Erie Indemnity Company
+ERII	Energy Recovery, Inc.
+EROC	Eagle Rock Energy Partners, L.P.
+ERS	Empire Resources, Inc.
+ERW	VelocityShares Equal Risk Weighted Large Cap ETF
+ESBF	ESB Financial Corporation
+ESBK	Elmira Savings Bank NY (The)
+ESCA	Escalade, Incorporated
+ESCR	Escalera Resources Co.
+ESCRP	Escalera Resources Co.
+ESEA	Euroseas Ltd.
+ESGR	Enstar Group Limited
+ESIO	Electro Scientific Industries, Inc.
+ESLT	Elbit Systems Ltd.
+ESMC	Escalon Medical Corp.
+ESPR	Esperion Therapeutics, Inc.
+ESRX	Express Scripts Holding Company
+ESSA	ESSA Bancorp, Inc.
+ESSX	Essex Rental Corporation
+ESXB	Community Bankers Trust Corporation.
+ESYS	Elecsys Corporation
+ETFC	E*TRADE Financial Corporation
+ETRM	EnteroMedics Inc.
+EUFN	iShares MSCI Europe Financials Sector Index Fund
+EVAL	iShares MSCI Emerging Markets Value Index Fund
+EVAR	Lombard Medical, Inc.
+EVBS	Eastern Virginia Bankshares, Inc.
+EVEP	EV Energy Partners, L.P.
+EVK	Ever
+EVLV	EVINE Live Inc.
+EVOK	Evoke Pharma, Inc.
+EVOL	Evolving Systems, Inc.
+EVRY	EveryWare Global, Inc.
+EWBC	East West Bancorp, Inc.
+EXA	Exa Corporation
+EXAC	Exactech, Inc.
+EXAS	Exact Sciences Corporation
+EXEL	Exelixis, Inc.
+EXFO	EXFO Inc
+EXLP	Exterran Partners, L.P.
+EXLS	ExlService Holdings, Inc.
+EXPD	Expeditors International of Washington, Inc.
+EXPE	Expedia, Inc.
+EXPO	Exponent, Inc.
+EXTR	Extreme Networks, Inc.
+EXXI	Energy XXI Ltd.
+EYES	Second Sight Medical Products, Inc.
+EZCH	EZchip Semiconductor Limited
+EZPW	EZCORP, Inc.
+FALC	FalconStor Software, Inc.
+FANG	Diamondback Energy, Inc.
+FARM	Farmer Brothers Company
+FARO	FARO Technologies, Inc.
+FAST	Fastenal Company
+FATE	Fate Therapeutics, Inc.
+FB	Facebook, Inc.
+FBIZ	First Business Financial Services, Inc.
+FBMS	The First Bancshares, Inc.
+FBNC	First Bancorp
+FBNK	First Connecticut Bancorp, Inc.
+FBRC	FBR & Co
+FBSS	Fauquier Bankshares, Inc.
+FCAP	First Capital, Inc.
+FCBC	First Community Bancshares, Inc.
+FCCO	First Community Corporation
+FCCY	1st Constitution Bancorp (NJ)
+FCEL	FuelCell Energy, Inc.
+FCFS	First Cash Financial Services, Inc.
+FCHI	iShares FTSE China (HK Listed) Index Fund
+FCLF	First Clover Leaf Financial Corp.
+FCNCA	First Citizens BancShares, Inc.
+FCS	Fairchild Semiconductor International, Inc.
+FCSC	Fibrocell Science Inc
+FCTY	1st Century Bancshares, Inc
+FCVA	First Capital Bancorp, Inc. (VA)
+FCZA	First Citizens Banc Corp.
+FCZAP	First Citizens Banc Corp.
+FDEF	First Defiance Financial Corp.
+FDIV	First Trust Strategic Income ETF
+FDML	Federal
+FDUS	Fidus Investment Corporation
+FEIC	FEI Company
+FEIM	Frequency Electronics, Inc.
+FELE	Franklin Electric Co., Inc.
+FEMB	First Trust Emerging Markets Local Currency Bond ETF
+FES	Forbes Energy Services Ltd
+FEUZ	First Trust Eurozone AlphaDEX ETF
+FEYE	FireEye, Inc.
+FFBC	First Financial Bancorp.
+FFBCW	First Financial Bancorp.
+FFHL	Fuwei Films (Holdings) Co., Ltd.
+FFIC	Flushing Financial Corporation
